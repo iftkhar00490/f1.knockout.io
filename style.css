@@ -1,10 +1,3 @@
-/* Please ❤ this if you like it! */
-
-/* ======================================== * 
-		        BEST VIEWED FULLSCREEN
-   https://codepen.io/ig_design/full/JxbVRq
- * ======================================== */
-
  @import url("https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i");
  @import url("https://fonts.googleapis.com/css2?family=Lato&family=Oswald:wght@200;300;400;500;600;700&display=swap");
  
@@ -97,7 +90,7 @@
    display: block;
    overflow: hidden;
    height: 100vh;
-   background-image: url("https://www.formula1.com/content/dam/fom-website/manual/Misc/POTY_2017/_X0W5640.jpg.transform/9col/image.jpg");
+   background-image: url("https://raw.githubusercontent.com/iftkhar00490/ihslaunchpads/main/chut.jpg");
    background-size: cover;
    background-position: center;
    transform: scale(1) rotateX(0);
@@ -109,7 +102,7 @@
    transform-origin: center top;
  }
  .hero-section h1 {
-   color: #fff;
+   color: rgb(17, 17, 17);
    font-size: 5vw;
    line-height: 1;
    font-weight: 900;
@@ -117,7 +110,7 @@
  .hero-section .dancing {
    font-family: "Lato", sans-serif;
    letter-spacing: 1px;
-   color: #dd7732;
+   color: #eeeeee;
    font-size: 26px;
    line-height: 1;
    font-weight: 700;
@@ -131,7 +124,7 @@
    font-size: 15px;
    line-height: 20px;
    font-weight: 500;
-   color: #fff;
+   color: black;
    letter-spacing: 1px;
  }
  .hero-section p span {
@@ -194,7 +187,7 @@
    font-size: 17px;
    line-height: 20px;
    font-weight: 700;
-   color: #fff;
+   color: rgb(2, 2, 2);
    letter-spacing: 2px;
    top: 50%;
    left: 40px;
@@ -295,7 +288,7 @@
    font-size: 17px;
    line-height: 20px;
    font-weight: 700;
-   color: #fff;
+   color: rgb(15, 15, 15);
    letter-spacing: 2px;
    top: 50%;
    right: 40px;
@@ -511,4 +504,13 @@
    border-radius: 50%;
    box-shadow: 0 0 0 20px rgba(255, 255, 255, 0.1);
  }
- 
+ hr {
+  border:none;
+  height: 20px;
+ 	width: 90%;
+	height: 50px;
+	margin-top: 0;
+	border-bottom: 2px solid white;
+	box-shadow: 0 20px 20px -20px white;
+  margin: -50px auto 10px; 
+}
